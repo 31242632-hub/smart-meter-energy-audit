@@ -1,0 +1,5 @@
+Scenario,After-hours HVAC reduction assumption (%),Setpoint-related HVAC savings assumption (%),Maintenance-related HVAC savings assumption (%),Estimated electricity savings (kWh),Estimated electricity reduction (%),Estimated avoided emissions (kg CO2e),Estimated remaining emissions (kg CO2e),Meets 15% target?
+Baseline / no changes,0.0,0.0,0.0,0.0,0.0,0.0,112218.18299999999,No
+Conservative,25.0,3.0,1.0,11751.475299999998,7.33039200073307,8226.032709999998,103992.15028999999,No
+Previous proposed scenario,35.0,5.0,2.5,17977.89025,11.214335180422589,12584.523175,99633.659825,No
+Enhanced target scenario (test only),53.0,5.0,2.5,24126.12325,15.049509645865502,16888.286275,95329.896725,"Yes, in model only"
